@@ -14,7 +14,7 @@ The project is about diagnosing Pneumonia from X-ray images of lungs of a person
   - Laying down a Deep Convolutional Neural Network architecture from scratch.
 - The model showed a recall of 95% and a precision of 80%.
   - In context of the problem statement, recall of the model plays a more crucial role for the successfull classifcation of images.
--The final model has been implemented after continous hyper parameter searches.
+- The final model architecture, loss functions and regularization steps have  been chosen after continous hyper parameter searches.
  
 
 ### Insipiration
