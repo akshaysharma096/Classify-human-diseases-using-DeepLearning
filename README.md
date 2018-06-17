@@ -22,4 +22,9 @@ Automated methods to detect and classify human diseases from medical images.
 
 
 
+### Reading
+- [Batch Normaliazation](https://arxiv.org/abs/1502.03167)
+- [Xavier Initialization](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
+- [Dropout Regularization](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
+
 
