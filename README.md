@@ -27,5 +27,7 @@ Automated methods to detect and classify human diseases from medical images.
 - [Xavier Initialization](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
 - [Dropout Regularization](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 - [Effective Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+- [How Does Batch Normalization Help Optimization?
+(No, It Is Not About Internal Covariate Shift)](https://arxiv.org/pdf/1805.11604.pdf)
 
 
